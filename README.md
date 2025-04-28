@@ -14,12 +14,12 @@ To get started with the ChainElevate DEX Aggregator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chainelevate/coin-dex.git
+   git clone https://github.com/chainelevate-tm/coin-dex.git
    ```
 2. Install dependencies:
 
    ```bash
-   yarn i
+   yarn install
    ```
 
 3. Start the development server:
